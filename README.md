@@ -1,23 +1,6 @@
 # Encuesta-de-Satisfacci-n
 Creación del repositorio para el Análisis Exploratorio de Datos (EDA)
 
-Estructura de repositorio
-es siguiendo las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
+El proyecto de análisis EDA es una hito de la materia de Desarrollo de Proyectos I, el cual se desarrollará de forma individual y tendrá un valor del 20% sobre la calificación final.
 
-La estructura que queremos que tenga este repositorio es la siguiente:
-
-    ├── LICENSE           <- MIT License.  
-    |  
-    ├── README.md         <- Main Readme file with the description of the project.  
-    |  
-    ├── CONTRIBUTING.md   <- Steps yo contribute to the project.  
-    |  
-    ├── CITATION.md       <- Way to cite the project.  
-    |  
-    ├── data              <- Original data bases.  
-    |  
-    ├── doc               <- Archivos de texto.  
-    |  
-    ├── results           <- Clean and analyzes data bases.  
-    |  
-    └── src               <- Coding files.  
+En la base de datos obtenida de la página del IMSS, se obtuvo los resultados de la encuesta de satisfacción realizada de junio – agosto del 2016, en todas las unidades médicas del país. La cantidad de personas encuestadas es de 19,964.
