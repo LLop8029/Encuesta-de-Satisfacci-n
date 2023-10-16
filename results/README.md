@@ -19,3 +19,12 @@ Imagenes obtenidas en el Análisis (EDA):
 ![Tiempo promedio por cada motivo de  opracion](https://github.com/LLop8029/Encuesta-de-Satisfacci-n/assets/142466536/5134cc82-ad2a-4b7a-9319-5300776fc430)
 ![Tiempo promedio de todas las operaciones](https://github.com/LLop8029/Encuesta-de-Satisfacci-n/assets/142466536/6d603eb2-e9cf-4703-8d8f-72d90c79b2ab)
 ![Tiempo hasta la operacion y dias transcurridos](https://github.com/LLop8029/Encuesta-de-Satisfacci-n/assets/142466536/450a6326-f6ed-4998-9ddd-924066600b24)
+
+
+Capturas de Repositorio compartido en Redes sociales personales:  
+WhatsApp:
+![WhatsApp_1](https://github.com/LLop8029/Encuesta-de-Satisfacci-n/assets/142466536/725458d0-27bb-4d3e-bfe9-8356a6482cae)  
+
+Instagram:
+![Instagram](https://github.com/LLop8029/Encuesta-de-Satisfacci-n/assets/142466536/f130b293-de32-4cf8-a14d-b86915d5a091)  
+
