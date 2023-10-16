@@ -1,5 +1,9 @@
 # Resultados obtenidos del EDA
 
+Escrito en PDF:
+[Resultados,encuesta_satisfacción.pdf](https://github.com/LLop8029/Encuesta-de-Satisfacci-n/files/12912180/Resultados.encuesta_satisfaccion.pdf)  
+
+Imagenes obtenidas en el Análisis (EDA):  
 ![Motivo,, operacion y tiempo](https://github.com/LLop8029/Encuesta-de-Satisfacci-n/assets/142466536/a02d0871-d6fa-48ef-88df-1b63a4258de8)
 ![Motivo de operacion y espera](https://github.com/LLop8029/Encuesta-de-Satisfacci-n/assets/142466536/6bacd8ca-4351-430f-b999-a368dd62995e)
 ![Histograma de problemas de salud](https://github.com/LLop8029/Encuesta-de-Satisfacci-n/assets/142466536/0c53c056-d286-4379-889b-15462bd0bb27)
